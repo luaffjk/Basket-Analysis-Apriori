@@ -1,3 +1,4 @@
-# Basket-Analysis-Apriori
+# Basket Analysis Apriori
 Imagine yourself in the shoes of a store manager, and one of your responsibilities is discovering combinations of items selected more often than expected. However, each shopper has a distinctive list depending on one's needs and preferences. A parent might buy healthy ingredients for a family dinner while a bachelor might buy beer and chips, but both frequently get bread and milk together, for example. Understanding these buying patterns can help to increase sales in several ways.
+
 Market basket analysis is a gentle introduction to data mining, and its key is looking for patterns to define business strategies or to identify hidden behaviors. On the other hand, Apriori Algorithm is a classical algorithm in data mining that we can use for these sorts of recommender systems. Then, both are combined to find combinations of products bought frequently together and considered statistically relevant.
